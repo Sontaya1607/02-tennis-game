@@ -18,5 +18,8 @@
     "url": "https://github.com/Sontaya58160434/02-software-testing/issues"
   },
   "homepage": "https://github.com/Sontaya58160434/02-software-testing#readme",
+  "dependencies": {
+    "jest": "^20.0.4"
+  },
   "description": ""
 }
