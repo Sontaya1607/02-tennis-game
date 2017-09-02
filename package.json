@@ -1,0 +1,22 @@
+{
+  "name": "02-tennis-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sontaya58160434/02-software-testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sontaya58160434/02-software-testing/issues"
+  },
+  "homepage": "https://github.com/Sontaya58160434/02-software-testing#readme",
+  "description": ""
+}
